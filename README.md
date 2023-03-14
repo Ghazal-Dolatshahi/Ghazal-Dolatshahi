@@ -1,8 +1,8 @@
 
 
-<h2 align="center">Hi 👋! I'm Ghazal dolatshahi</h2>
+<h1 align="center">Hi 👋! I'm Ghazal dolatshahi</h1>
 
-step-by-step, working towards my goals 👩‍💻
+<h2> step-by-step, working towards my goals 👩‍💻 </h2>
 
 <div align="left">
   <a href="https://www.instagram.com/ghazall_dolatshahi/" target="_blank">
