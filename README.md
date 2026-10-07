@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:7C3AED&height=220&section=header&text=Ghazal%20Dolatshahi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:7C3AED&height=220&section=header&text=Ghazal%20Dolatshahi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
 </div>
-
----
 
 ## 👩🏻‍💻 About Me
 
@@ -14,8 +12,6 @@
 - 🌱 Learning step by step, one commit at a time
 - 🤝 Open to collaborating on **learning projects & open source**
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -24,7 +20,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -39,7 +34,6 @@
 
 </div>
 
----
 
 ## 📬 Contact Me
 
