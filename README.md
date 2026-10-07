@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Master's student in **Computer Engineering**, specializing in **Artificial Intelligence and Software**
+- 🎓 Master's student in **Computer Engineering**, specializing in Artificial Intelligence
 - 💡 Interested in **web development, artificial intelligence, and software engineering**
 - 💻 Languages I've worked with: **Python, Java, SQL, C++, HTML, CSS**
 - 🌱 Learning step by step, one commit at a time
@@ -52,9 +52,6 @@
 <a href="mailto:ighazaldolatshahi2004@gmail.com"><img src="https://img.icons8.com/fluent/48/gmail-new.png" width="44" alt="Email"/></a>
 
 <br/><br/>
-
-💬 *"The secret of getting ahead is getting started."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:7C3AED&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
